@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PS TECH</string>
+    <string name="home">Home</string>
+    <string-array name="subjects">
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Social Science</item>
+        <item>Science</item>
+    </string-array>
+    <string name="pass">Password</string>
+    <string name="login">Already have account?   login</string>
+    <string name="submit_but">Submit</string>
+    <string name="user">Username</string>
+    <string name="phone">Phone Number</string>
+    <string name="email_mass">Email Id</string>
+    <string name="but">Sign In</string>
+
+</resources>

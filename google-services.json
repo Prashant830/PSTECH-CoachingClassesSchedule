@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019684692818",
+    "firebase_url": "https://ps-tech-eefdf.firebaseio.com",
+    "project_id": "ps-tech-eefdf",
+    "storage_bucket": "ps-tech-eefdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019684692818:android:fc0c36f140c6bb61a2108b",
+        "android_client_info": {
+          "package_name": "com.example.pstech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019684692818-v74sdq66p7km0u3lbb7j59db5ssj2mq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFKXi87wlUGi8OLBlK-L93DR35M5n9aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019684692818-v74sdq66p7km0u3lbb7j59db5ssj2mq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
